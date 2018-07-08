@@ -21,7 +21,7 @@
 
 ### 截图
 
-![](https://github.com/shansb/Unsplash4mac/blob/master/screenshot.png?raw=true)
+![](https://github.com/shansb/Unsplash4mac/blob/master/screenshot.jpg?raw=true)
 
 ### 已知问题
 
